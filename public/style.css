@@ -1,0 +1,66 @@
+body {
+    background-color: #292C32;
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hr {
+    background-color: #3A78BF;
+    height: 2px;
+    border: none;
+    margin-left: -20px;
+    margin-right: -20px;
+    
+}
+
+h1 {
+    color: #FFFFFF;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    color: #3A7AC2;
+    margin-top: 0;
+    font-size: 1rem;
+}
+
+p {
+    color: #d1d1d1;
+    font-weight: 100;
+    
+}
+
+
+.myself-div h1 {
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.myself-div p {
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin-top: 20px;
+}
+
+.myself-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.work-divs {
+    margin-bottom: 50px;
+}
+
+.work-divs p {
+    margin-left: 20px;
+}
